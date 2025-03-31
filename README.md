@@ -1,4 +1,4 @@
-#Coming soon!
+
 
 
 
@@ -12,5 +12,5 @@ npm install our-legen-wait-for-it-daaaary-library
 import { SomeComponent } from 'our-legen-wait-for-it-daaaary-library';
 ``
 
-
+# Coming soon!
 
